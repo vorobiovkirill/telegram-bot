@@ -8,8 +8,8 @@
     "npm": ">=3.10"
   },
   "scripts": {
-    "start": "node app/index.js",
-    "lint": "eslint app/index.js"
+    "start": "node index.js",
+    "lint": "eslint index.js"
   },
   "repository": {
     "type": "",
